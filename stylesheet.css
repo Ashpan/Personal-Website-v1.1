@@ -1,0 +1,79 @@
+#introbg{
+	top: 0px;
+}
+#intro{
+	position: relative;
+	color: white;
+	top: -67.5vh;
+	left: 5vw;
+}
+
+#hello{
+	font: 10px;
+}
+
+#more{
+	position: relative;
+	left: 80vw;
+	top: 0vh;
+}
+
+#redcontainer1{
+	position: relative;
+	width: 98.79vw; 
+	height: 50vh;
+	background-color: #EE4545;
+	left: 0vw;
+	top: 80.5vh;
+	color: white;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	line-height: 37.5vh;
+	font-size: 60px;
+}
+
+#picture{
+	position: absolute;
+	left: 200px;
+	top: 50px;
+	border-radius: 99999999999px;
+	width: 15%;
+}
+
+#aboutinfo{
+	position: relative;
+	width: 55vw;
+	top: 88vh;
+	left: 40%;
+	line-height: 2;
+}
+
+#aboutme{
+	position: absolute;
+	font-size: 16px;
+	text-align: left;
+}
+
+#mypic{
+	position: relative;
+}
+
+#Resume{
+position: relative;
+top: 8vh;
+}
+
+#whitecontainer1{
+	position: absolute;
+	width: 98.79vw;
+	height: 50vh;
+	top: 160.5vh;
+	left: 0vw;
+	background-color: white;
+	font-family: 'Lato', sans-serif;
+
+}
+
+#project{
+	text-align: center;
+}
